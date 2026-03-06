@@ -1,7 +1,7 @@
 # AIML-Project
 
 ## What the project does
-This is an AI (Artificial Intelligence) web application that the users are able to interact with to do OCR (Optical Character Recognization) with any image the users uploaded.
+This is an Artificial Intelligence web application that the users are able to interact with to do OCR (Optical Character Recognization) with any image the users uploaded.
 
 
 ## Interface Design
