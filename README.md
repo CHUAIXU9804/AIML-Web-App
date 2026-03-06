@@ -1,12 +1,23 @@
-1.python virtual environment
-https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server
+AI-Side-Project-Collaboration
 
-2.flask
-https://flask.palletsprojects.com/en/stable/installation/
+What the project does
 
+This is an AI (Artificial Intelligence) web application that the users are able to interact with to do OCR (Optical Character Recognization) with any image the users uploaded.
 
+Current Status
 
-3. flask-login
-https://flask-login.readthedocs.io/en/latest/
-client side session only for now
-1. maybe add a mail server?
+Work in Progress...
+
+Demo Demonstration
+
+** Frontend Interface ** Screenshot 2025-06-06 at 10 47 38 PM
+
+** Enhanced Frontend with my collaboration partner ** Screenshot 2025-06-06 at 10 46 05 PM
+
+Note
+
+This repository is used to keep a track of the code I've created in the AI Side project, in collaboration with another developer.
+
+Where users can get help with your project
+
+Please contact the author CX at Huairuxu@gmail.com for any question, concern or inquiry.
