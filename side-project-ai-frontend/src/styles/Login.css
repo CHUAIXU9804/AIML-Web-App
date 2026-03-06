@@ -1,0 +1,125 @@
+/* General reset and box-sizing */
+*,
+*:before,
+*:after {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Ensure the container takes up full height */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+    background-color: hsl(169, 48%, 82%);
+  }
+
+/* Flex container to hold the image and form side by side */
+.container {
+  display: flex;
+  justify-content: center; /* Horizontally center items */
+  align-items: center; /* Vertically center items */
+  height: 100vh; /* Full viewport height */
+}
+
+/* Image styling */
+.background_picture img {
+  width: 50vw; /* Take up half the viewport width */
+  height: 90vh; /* Take up 90% of viewport height */
+  object-fit: cover;
+  box-shadow: 0 0 40px;
+}
+
+/* Form styling */
+form {
+  height: 90vh; /* Match image height */
+  width: 50vw;  /* Take up half the viewport width */
+  background-color: #ffffff;
+  border-radius: 10px;
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 0 40px rgba(8, 7, 16, 0.6);
+  padding: 50px 35px;
+  display: flex;
+  flex-direction: column; /* Stack form elements */
+  justify-content: center; /* Center content inside form */
+}
+
+/* Form elements */
+form * {
+  font-family: 'Bold', serif;
+  color: #000000;
+  letter-spacing: 0.5px;
+  outline: none;
+  border: none;
+}
+
+form h3 {
+  font-size: 3vw; /* Adjust font-size with viewport width */
+  font-weight: 500;
+  line-height: 1.2;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-top: 2vw; /* Adjust margin for larger layout */
+  font-size: 1.5vw;
+  font-weight: 500;
+}
+
+input {
+  display: block;
+  height: 4vw;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.07);
+  border-radius: 3px;
+  padding: 0 10px;
+  margin-top: 1vw;
+  font-size: 1.2vw;
+  font-weight: 300;
+}
+
+::placeholder {
+  color: #736D6D;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  background-color: #2BB8C2;
+  color: #ffffff;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  
+}
+
+/* Social div */
+.social {
+  margin-top: 2vw;
+  display: flex;
+}
+
+.social div {
+  background: red;
+  width: 20%;
+  border-radius: 3px;
+  padding: 0.5vw;
+  background-color: rgba(255, 255, 255, 0.27);
+  color: #616EF8;
+  text-align: center;
+}
+
+.social div:hover {
+  background-color: hwb(184 49% 21%);
+}
+
+.social i {
+  margin-right: 4px;
+}
