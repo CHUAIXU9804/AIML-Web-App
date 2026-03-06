@@ -3,16 +3,10 @@
 ## What the project does
 This is an AI (Artificial Intelligence) web application that the users are able to interact with to do OCR (Optical Character Recognization) with any image the users uploaded.
 
-## Current Status
-Work in Progress...
 
 ## Demo Demonstration
 ** Frontend Interface **
 ![Screenshot 2025-06-06 at 10 47 38 PM](https://github.com/user-attachments/assets/11d88a8a-ce5e-47b4-bdeb-1cf9cc58b92e)
-
-
-** Enhanced Frontend with my collaboration partner **
-![Screenshot 2025-06-06 at 10 46 05 PM](https://github.com/user-attachments/assets/27060e64-c9d8-405b-9fa3-87d62df41dad)
 
 
 
