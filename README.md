@@ -1,4 +1,4 @@
-# AI-Side-Project-Collaboration
+# AIML-Project
 
 ## What the project does
 This is an AI (Artificial Intelligence) web application that the users are able to interact with to do OCR (Optical Character Recognization) with any image the users uploaded.
@@ -6,8 +6,7 @@ This is an AI (Artificial Intelligence) web application that the users are able 
 
 ## Interface Design
 ** Login **
-![Screenshot 2025-06-06 at 10 47 38 PM](https://github.com/user-attachments/assets/11d88a8a-ce5e-47b4-bdeb-1cf9cc58b92e)
-<img width="1160" height="707" alt="Screenshot 2026-03-06 at 5 16 35 PM" src="https://github.com/user-attachments/assets/0dbcfd18-cf0c-4d8b-bd49-2d1517df0bf0" />
+<img width="1419" height="803" alt="Screenshot 2026-03-06 at 5 19 19 PM" src="https://github.com/user-attachments/assets/b3e2fa0f-a1f9-4e33-8dbb-8e9333df3b35" />
 
 
 
