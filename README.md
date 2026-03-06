@@ -11,8 +11,5 @@ This is an AI (Artificial Intelligence) web application that the users are able 
 
 
 
-## Note
-This repository is used to keep a track of the code I've created in the AI Side project, in collaboration with another developer.
-
 ## Where users can get help with your project
 Please contact the author CX at Huairuxu@gmail.com for any question, concern or inquiry.
